@@ -1,0 +1,169 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\drago\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\Desktop\\NAGYBEAD\\EC9VQV_BEAD\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B182B8D5-3FC1-4836-8F54-AD7D954F4E38}|..\\TEST_BEAD\\TEST_BEAD.csproj|c:\\users\\drago\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\desktop\\nagybead\\test_bead\\cegteszt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B182B8D5-3FC1-4836-8F54-AD7D954F4E38}|..\\TEST_BEAD\\TEST_BEAD.csproj|c:\\users\\drago\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\desktop\\nagybead\\test_bead\\soforteszt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBFF418-9A00-4234-9E7A-E1747BC600D5}|EC9VQV_BEAD.csproj|c:\\users\\drago\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\desktop\\nagybead\\ec9vqv_bead\\ceg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBFF418-9A00-4234-9E7A-E1747BC600D5}|EC9VQV_BEAD.csproj|solutionrelative:ceg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B182B8D5-3FC1-4836-8F54-AD7D954F4E38}|..\\TEST_BEAD\\TEST_BEAD.csproj|c:\\users\\drago\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\desktop\\nagybead\\test_bead\\kamionteszt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B182B8D5-3FC1-4836-8F54-AD7D954F4E38}|..\\TEST_BEAD\\TEST_BEAD.csproj|c:\\users\\drago\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\desktop\\nagybead\\test_bead\\fuvarteszt.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBFF418-9A00-4234-9E7A-E1747BC600D5}|EC9VQV_BEAD.csproj|c:\\users\\drago\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\desktop\\nagybead\\ec9vqv_bead\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBFF418-9A00-4234-9E7A-E1747BC600D5}|EC9VQV_BEAD.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBFF418-9A00-4234-9E7A-E1747BC600D5}|EC9VQV_BEAD.csproj|c:\\users\\drago\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\desktop\\nagybead\\ec9vqv_bead\\nyerges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBFF418-9A00-4234-9E7A-E1747BC600D5}|EC9VQV_BEAD.csproj|solutionrelative:nyerges.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBFF418-9A00-4234-9E7A-E1747BC600D5}|EC9VQV_BEAD.csproj|c:\\users\\drago\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\desktop\\nagybead\\ec9vqv_bead\\torzstag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBFF418-9A00-4234-9E7A-E1747BC600D5}|EC9VQV_BEAD.csproj|solutionrelative:torzstag.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9FBFF418-9A00-4234-9E7A-E1747BC600D5}|EC9VQV_BEAD.csproj|c:\\users\\drago\\onedrive - eotvos lorand tudomanyegyetem informatikai kar\\desktop\\nagybead\\ec9vqv_bead\\fuvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9FBFF418-9A00-4234-9E7A-E1747BC600D5}|EC9VQV_BEAD.csproj|solutionrelative:fuvar.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 4,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{e1b7d1f8-9b3c-49b1-8f4f-bfc63a88835d}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SoforTeszt.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\Desktop\\NAGYBEAD\\TEST_BEAD\\SoforTeszt.cs",
+              "RelativeDocumentMoniker": "..\\TEST_BEAD\\SoforTeszt.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\Desktop\\NAGYBEAD\\TEST_BEAD\\SoforTeszt.cs",
+              "RelativeToolTip": "..\\TEST_BEAD\\SoforTeszt.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:19:30.42Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "KamionTeszt.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\Desktop\\NAGYBEAD\\TEST_BEAD\\KamionTeszt.cs",
+              "RelativeDocumentMoniker": "..\\TEST_BEAD\\KamionTeszt.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\Desktop\\NAGYBEAD\\TEST_BEAD\\KamionTeszt.cs",
+              "RelativeToolTip": "..\\TEST_BEAD\\KamionTeszt.cs",
+              "ViewState": "AgIAAFgAAAAAAAAAAAAwwGMAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:19:28.708Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "FuvarTeszt.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\Desktop\\NAGYBEAD\\TEST_BEAD\\FuvarTeszt.cs",
+              "RelativeDocumentMoniker": "..\\TEST_BEAD\\FuvarTeszt.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\Desktop\\NAGYBEAD\\TEST_BEAD\\FuvarTeszt.cs",
+              "RelativeToolTip": "..\\TEST_BEAD\\FuvarTeszt.cs",
+              "ViewState": "AgIAABsAAAAAAAAAAAAYwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:19:27.445Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "CegTeszt.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\Desktop\\NAGYBEAD\\TEST_BEAD\\CegTeszt.cs",
+              "RelativeDocumentMoniker": "..\\TEST_BEAD\\CegTeszt.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\Desktop\\NAGYBEAD\\TEST_BEAD\\CegTeszt.cs",
+              "RelativeToolTip": "..\\TEST_BEAD\\CegTeszt.cs",
+              "ViewState": "AgIAAF8AAAAAAAAAAAAAAGkAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:18:28.023Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\Desktop\\NAGYBEAD\\EC9VQV_BEAD\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\Desktop\\NAGYBEAD\\EC9VQV_BEAD\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAABkAAAAAAAAAAAAQwAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:18:18.903Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Nyerges.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\Desktop\\NAGYBEAD\\EC9VQV_BEAD\\Nyerges.cs",
+              "RelativeDocumentMoniker": "Nyerges.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\Desktop\\NAGYBEAD\\EC9VQV_BEAD\\Nyerges.cs",
+              "RelativeToolTip": "Nyerges.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:18:17.781Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Torzstag.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\Desktop\\NAGYBEAD\\EC9VQV_BEAD\\Torzstag.cs",
+              "RelativeDocumentMoniker": "Torzstag.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\Desktop\\NAGYBEAD\\EC9VQV_BEAD\\Torzstag.cs",
+              "RelativeToolTip": "Torzstag.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:17:51.637Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Fuvar.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\Desktop\\NAGYBEAD\\EC9VQV_BEAD\\Fuvar.cs",
+              "RelativeDocumentMoniker": "Fuvar.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\Desktop\\NAGYBEAD\\EC9VQV_BEAD\\Fuvar.cs",
+              "RelativeToolTip": "Fuvar.cs",
+              "ViewState": "AgIAACEAAAAAAAAAAAAcwEAAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:16:16.481Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ceg.cs",
+              "DocumentMoniker": "C:\\Users\\drago\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\Desktop\\NAGYBEAD\\EC9VQV_BEAD\\Ceg.cs",
+              "RelativeDocumentMoniker": "Ceg.cs",
+              "ToolTip": "C:\\Users\\drago\\OneDrive - Eotvos Lorand Tudomanyegyetem Informatikai Kar\\Desktop\\NAGYBEAD\\EC9VQV_BEAD\\Ceg.cs",
+              "RelativeToolTip": "Ceg.cs",
+              "ViewState": "AgIAADAAAAAAAAAAAAAIwEoAAABRAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-02T14:14:30.424Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

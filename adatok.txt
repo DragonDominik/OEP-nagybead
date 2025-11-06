@@ -1,0 +1,29 @@
+### Kamionok ###
+# Formátum: Rendszam;Helyzet;Teherbiras;Fogyasztas;Tipus
+KAMION:ABC-123;Budapest;5000;22;FULKES
+KAMION:XYZ-987;Debrecen;8000;30;NYERGES
+KAMION:DEF-456;Szeged;6000;25;FULKES
+KAMION:GHI-789;Pécs;7000;28;NYERGES
+KAMION:JKL-012;Győr;5500;23;FULKES
+
+### Sofőrök ###
+# Formátum: Nev;Jogositvany;Tipus
+SOFOR:Kovács János;K123456;KEZDO
+SOFOR:Nagy Béla;G654321;GYAKORLOTT
+SOFOR:Tóth István;T789012;TORZSTAG
+SOFOR:Szabó Erzsébet;K456789;KEZDO
+SOFOR:Varga Miklós;G987654;GYAKORLOTT
+
+### Fuvarok ###
+# Formátum: Kezdo;Cél;Tavolsag(km);Teher(kg);Dij(ft)
+FUVAR:Budapest;Debrecen;200;3500;150000
+FUVAR:Debrecen;Szeged;180;2800;120000
+FUVAR:Szeged;Budapest;220;4000;180000
+FUVAR:Pécs;Győr;150;3200;110000
+FUVAR:Győr;Budapest;120;2500;90000
+
+### Fuvar-hozzárendelések ###
+# Formátum: FuvarID;Rendszam;Jogositvany
+HOZZARENDELES:1;ABC-123;K123456
+HOZZARENDELES:2;XYZ-987;G654321
+HOZZARENDELES:3;DEF-456;T789012
