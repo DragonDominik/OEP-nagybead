@@ -48,3 +48,4 @@ diagramját, és hozzon létre ezek kipróbálására automatikusantesztkörnyez
 - dokumentáció.pdf: a feladathoz tartozó UML diagramok és azok részletes leírása
 - EC9VQV_BEAD: a rendszer C# megvalósítása
 - TEST_BEAD: a C# megoldáshoz tartozó automatikus tesztek
+- adatok.txt: felpoluláláshoz használható txt
